@@ -36,13 +36,17 @@ public class Main {
 		int[] firstRow = board[0];
 		// now, we'll get the first value in that row
 		int firstVal = firstRow[0];
+		System.out.println("print the first value of 3x3 array");
 		System.out.println(firstVal);
 		
 		//or the below code is same as above-have to name it firstVal2 so the 
 		//name is not same as first example
 
 		int firstVal2 = board[0][0];
+		System.out.println("print the first value of 3x3 array with diff code");
 		System.out.println(firstVal2);
+
+		//how do you print the who array??
 
 		//stopping at loops....to be continued...
 	}
