@@ -46,7 +46,7 @@ public class Main {
 		System.out.println("print the first value of 3x3 array with diff code");
 		System.out.println(firstVal2);
 
-		//how do you print the who array??
+		//how do you print the whole array??
 
 		//stopping at loops....to be continued...
 	}
