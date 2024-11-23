@@ -23,9 +23,12 @@
 				{1.1, 2.2, 3.3},
 				{4.4, 5.5, 6.6},
 				{7.7, 8.8, 9.9}	};
-			//double result = sumGrid (grid);
-        System.out.println("The sum of the elements in the grid is:");
-		System.out.println(PracticeProblems.sumGrid(grid));
-		System.out.println(PracticeProblems.Fib(8));
+        	System.out.println("The sum of the elements in the grid is:");
+			System.out.println(PracticeProblems.sumGrid(grid));
+
+			System.out.println(PracticeProblems.Fib(3));
 		}
 	}
+
+
+	//hello
